@@ -31,7 +31,6 @@ git clone https://github.com/adityayfn/hanafuda-auto.git
 ### 3. Masuk direktori dan Install dependensi
 
 ```bash
-cd hanafuda-auto
 npm install    
 ```
 
