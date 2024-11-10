@@ -65,3 +65,4 @@ To run this project, you will need to add the following environment variables to
 * Bot ini hanya saya tes di linux, silahkan di coba dan disesuaikan jika anda menggunakan windows atau termux
 * Untuk fitur auto grow terkadang masih mengalami error
 * Pastikan saldo Ethereum mencukupi sebelum menjalankan fitur deposit.
+* Jangan lupa sesuaikan RPC nya, pada bot ini menggunakan RPC ARBITRUM
