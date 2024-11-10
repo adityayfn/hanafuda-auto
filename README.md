@@ -21,6 +21,7 @@ Bot ini membutuhkan `Node.js` dan `npm`. Pastikan keduanya sudah terinstal.
 
 ### 2. Clone Repo
 
+Clone atau download repository ini
 
 
 ```bash
